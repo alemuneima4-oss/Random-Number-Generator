@@ -1,0 +1,31 @@
+.card{
+    width: 300px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+
+body{
+    font-family:'Lucida Sans Unicode';
+    text-align:center;
+    background-color:rgb(156, 156, 211);
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+#mybtn{
+    font-size:1.5em;
+    padding: 5px 25p;
+    border-radius:15px;
+    background-color:rgb(9, 9, 197);
+    color:white;
+}
+.mylabel{
+    font-size:1.5em;
+}
